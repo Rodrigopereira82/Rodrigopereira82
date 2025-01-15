@@ -2,7 +2,7 @@ Sistema de Registro de Ponto de Colaboradores
 
 Introdução:
 
-Este projeto é uma aplicação desenvolvida em linguagem Python para gerenciamento do registro de ponto dos colaboradores de uma empresa ou instituição. Ele permite capturar dados de entrada e saída de funcionário(s), armazená-los localmente em arquivos no formato JSON e realizar consultas simples sobre os dados registrados. A aplicação é uma solução acessível e de fácil implementação para pequenas empresas ou indivíduos que buscam gerenciar registros de ponto de forma eficiente, sem depender de serviços em nuvem.
+Este projeto é uma aplicação desenvolvida em linguagem Python para o gerenciamento de registro de ponto dos colaboradores de uma empresa ou instituição. Ele permite capturar dados de entrada e saída de funcionários, armazená-los localmente em arquivos no formato JSON e realizar consultas simples sobre os dados registrados. A aplicação é uma solução acessível e de fácil implementação para pequenas empresas ou indivíduos que buscam gerenciar registros de ponto de forma eficiente, sem depender de serviços em nuvem.
 
 Esse sistema foi projetado com foco em simplicidade e escalabilidade, sendo possível expandi-lo para atender requisitos adicionais, como integração com bancos de dados, visualização gráfica e serviços em nuvem.
 

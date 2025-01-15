@@ -11,7 +11,7 @@ Objetivo:
 Oferecer uma solução prática e personalizável para o registro de ponto, incluindo:
 
   * Captura de dados do ponto (entrada/saída) dos colaboradores.
-  * Armazenamento de informações referentes ao colaborador (email, cpf).
+  * Armazenamento de informações referentes ao colaborador (email, CPF).
   * Armazenamento seguro dos registros em arquivos locais.
   * Facilidade de consulta e análise dos registros armazenados.
   * Base de código modular e extensível para futuras melhorias.
